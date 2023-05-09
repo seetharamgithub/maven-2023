@@ -7,7 +7,8 @@ class FibonacciExample2{
          n2 = n3; 
          n3 = n1;
          System.out.print(" "+n3);   
-         printFibonacci(count-1);    
+         printFibonacci(count-1); 
+my first fibnacci program   
      }    
  }    
  public static void main(String args[]){    
